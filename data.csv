@@ -1,0 +1,31 @@
+Host,WP Engine,Siteground,Bluehost,Dreamhost,GoDaddy,Hostgator,Inmotion Hosting,Ipage
+Overall Score,High,High,High,High,High,High,Medium,Medium
+Home URL,wpengine.com,siteground.com,bluehost.com,dreamhost.com,godaddy.com,hostgator.com,inmotionhosting.com,ipage.com
+Pricing Page,https://wpengine.com/plans/#plan-finder-container,https://www.siteground.com/web-hosting.htm,https://www.bluehost.com/shared,https://www.dreamhost.com/hosting/shared/,https://www.godaddy.com/hosting/web-hosting,http://www.hostgator.com/shared,http://www.inmotionhosting.com/business-hosting,https://www.ipage.com/web-hosting
+Cheapest Plan Name,Personal,StartUp,Basic,shared website hosting plan,Economy,Hatchling Plan,Launch,The iPage Essential Plan
+Cheapest Plan Cost Sale Price,$29/mo (20% off with current coupon),$3.95/mo,$3.95/mo,$7.95/mo,$3.99/month,$3.95/mo,$4.89/mo.,$1.99/mo
+Cheapest Plan Cost Regular Price,$29/mo,$9.95/mo,$7.99/month,$7.95/month,$7.99/month,$9.20/mo,$6.99/month,$11.95/mo
+Number of websites allowed,1,1,1,Unlimited,1,1,2,1
+Space,10GB,10GB,50 GB,Unlimited,100GB,Unmetered,UNLIMITED,Unlimited
+Bandwidth/data transfer/Visits Limit,25k visits,Unlimited,Unmetered,Unlimited,Unlimited,Unmetered,Unlimited,Unlimited
+Best for,Growing WordPress sites,Everybody,Bloggers,Bloggers,Small businesses,Tech-saavy Bloggers,Business from the early 2000s,Old-school geeks
+Database Limit,"10GB, Scales beyond that with pricing",Unlimited MySQL DB,There is limit for database  tables it is 1000 tables.,Unlimited,Unlimited,UNLIMITED,2,Unlimited
+Staging Area,"Yes, included.",No,Not included,Included,Not included,Not included,"Yes, Included","Yes, Included"
+Free Domain?,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Website Transfer?,Automated with plugin,"Yes, free",150,FTP only,"Yes, free","Yes, free","Yes, free","Yes, Free"
+Email Hosting?,No,"Yes, free",5 email account,"Yes, free","Yes, free","Yes, free","Yes, free",Yes
+Support Type?,Email 24/7 and chat during business hours.,24/7 Support,24/7 Support,"24/7/365 via live chat, email, and Twitter",24/7 Technical Support,24/7/365 Support,24 x 7 x 365 US-Based Support,"24/7 phone, chat and email support"
+Email/Ticket Support?,"Yes, 24/7.",Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Chat Support?,6AM-8PM CST,Yes,Yes,Yes,Limited,Yes,Yes,Yes
+Phone Support?,No,Yes,Yes,"Yes, callback",Yes,Yes,Yes,Yes
+Avg. Support Response Time,30 seconds,5 minutes,Within 24 hours,24hrs,,Right now our tickets are taking around 72 hours to be resolved,They will respond not later than 4 hours,a minute on average
+Uptime (last 12 mos),99.95% guarantee,0.99996,"we are not able to say the uptime percentage, since it is a shared hosting.",1,,0.999,,0.999
+Backup?,"Daily, free. 60-day archive.","Free, daily backup",Daily backup,"Free, daily backups",Free Daily Backup,Instant Backup,Free data backup,Website Backup Software
+Website builder?,No,"Yes, Free","Yes, Free","Yes, Free","Yes, Free",,"Yes, Free",Yes
+cPanel?,"No, unique interface.","Yes, included","Yes, included","No, inhouse","Yes, included","Yes, included","Yes, included",not included
+SSH Access?,"No. ""As we are a fully managed host, we do not provide ssh or root access. However, you can access your database via SFTP and phpmyadmin.""",Yes,Yes,Yes,Yes,Yes,Yes,No
+Money-Back Guarantee?,60-Days,30-Days,You can get the refund according to what you have paid anytime but according to the terms and conditions.,97-day,30 Days,45 Days,90 Days,30-days
+WordPress Friendly?,Yes,Yes,Yes,Yes,,Yes,Yes,Yes
+Joomla Friendly?,No,Yes,Yes,Yes,,Yes,Yes,Yes
+CDN?,$19.99/mo,Free Cloudflare CDN,Free Cloudflare CDN,"Yes, free",Free Cloudflare CDN,Not anymore are we in partnership with cloudflare now we promote the Sitelock CDN,No,Free 1GB cloud storage account
+SSL,$49.99/yr,,Yes but not free,Free,,not eligible,shared SSL,
